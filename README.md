@@ -1,0 +1,1 @@
+This is a data driven analysis of players in the Indian Premier League (IPL) aimed at categorizing players into tiers based on their advanced stats from the years of 2016-2022. This shows how impactful players can be based on their historical perfomance and consistency over the years, helping teams make informed decisions on how to prioritize funds accordingly
